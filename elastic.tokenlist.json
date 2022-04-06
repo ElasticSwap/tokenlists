@@ -1,0 +1,33 @@
+{
+  "name": "Elastic Supply Tokens",
+  "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/ElasticSwap/square-400px.png",
+  "keywords": [
+    "avalanche",
+    "ethereum",
+    "rebasing"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-04-06T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "decimals": 9,
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-square-280px.jpeg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+      "decimals": 9,
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-square-280px.jpeg"
+    }
+  ]
+}

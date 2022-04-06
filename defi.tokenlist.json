@@ -1,0 +1,25 @@
+{
+  "name": "DeFi Tokens",
+  "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/ElasticSwap/square-400px.png",
+  "keywords": [
+    "avalanche",
+    "ethereum",
+    "DeFi"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-04-06T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
+      "decimals": 18,
+      "name": "ElasticSwap TIC Token",
+      "symbol": "TIC",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/ElasticSwap/square-400px.png"
+    }
+  ]
+}
