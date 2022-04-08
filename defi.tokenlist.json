@@ -9,7 +9,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "timestamp": "2022-04-06T12:00:00+00:00",
   "tokens": [
@@ -19,7 +19,9 @@
       "decimals": 18,
       "name": "ElasticSwap TIC Token",
       "symbol": "TIC",
-      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/ElasticSwap/square-400px.png"
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/TIC/tic-circle.png"
     }
   ]
 }
+
+
