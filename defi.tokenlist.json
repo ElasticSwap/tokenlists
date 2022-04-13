@@ -11,7 +11,7 @@
     "minor": 0,
     "patch": 1
   },
-  "timestamp": "2022-04-06T12:00:00+00:00",
+  "timestamp": "2022-04-13T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -20,6 +20,22 @@
       "name": "ElasticSwap TIC Token",
       "symbol": "TIC",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/TIC/tic-circle.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef",
+      "decimals": 18,
+      "name": "Wrapped Ampleforth",
+      "symbol": "WAMPL",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/wampl-square-1000px.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+      "decimals": 18,
+      "name": "Ampleforth Governance",
+      "symbol": "FORTH",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/forth-square-700px.png"
     }
   ]
 }

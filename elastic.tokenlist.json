@@ -11,23 +11,31 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2022-04-06T12:00:00+00:00",
+  "timestamp": "2022-04-13T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
       "decimals": 9,
       "name": "Ampleforth",
       "symbol": "AMPL",
-      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-square-280px.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-black.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E6bb68Acec8fefBD87D192bE09bb274170a0548",
+      "decimals": 9,
+      "name": "Aave interest bearing AMPL",
+      "symbol": "aAMPL",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-black.svg"
     },
     {
       "chainId": 43114,
       "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
       "decimals": 9,
-      "name": "Ampleforth",
+      "name": "Ampleforth secured by Meter Passport",
       "symbol": "AMPL",
-      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-square-280px.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-black.svg"
     }
   ]
 }
