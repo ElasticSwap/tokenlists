@@ -8,11 +8,19 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "timestamp": "2022-04-13T12:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2163383C1F4E74fE36c50E6154C7F18d9Fd06d6f",
+      "decimals": 18,
+      "name": "ElasticSwap TIC Token",
+      "symbol": "TIC",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/TIC/tic-circle.png"
+    },
     {
       "chainId": 43114,
       "address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
