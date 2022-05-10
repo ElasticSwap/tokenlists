@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "timestamp": "2022-04-13T12:00:00+00:00",
@@ -35,7 +35,7 @@
       "decimals": 18,
       "name": "FOX Yieldy",
       "symbol": "FOXy",
-      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/foxy.svg"
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/foxy.png"
     },
     {
       "chainId": 43114,
