@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "timestamp": "2022-04-13T12:00:00+00:00",
@@ -44,6 +44,14 @@
       "name": "Ampleforth Governance",
       "symbol": "FORTH",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/forth-square-700px.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+      "decimals": 18,
+      "name": "FOX",
+      "symbol": "FOX",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/fox.svg"
     }
   ]
 }
