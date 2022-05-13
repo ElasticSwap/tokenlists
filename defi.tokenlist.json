@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "timestamp": "2022-04-13T12:00:00+00:00",
@@ -28,6 +28,14 @@
       "name": "ElasticSwap TIC Token",
       "symbol": "TIC",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/brand/master/TIC/tic-circle.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4CF9dC05c715812FeAD782DC98de0168029e05C8",
+      "decimals": 18,
+      "name": "SushiSwap LP Token",
+      "symbol": "SLP",
+      "logoURI": "n/a"
     },
     {
       "chainId": 1,
