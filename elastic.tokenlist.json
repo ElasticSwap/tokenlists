@@ -8,10 +8,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2022-04-13T12:00:00+00:00",
+  "timestamp": "2022-05-13T14:39:34.828Z",
   "tokens": [
     {
       "chainId": 1,
@@ -44,6 +44,14 @@
       "name": "Ampleforth secured by Meter Passport",
       "symbol": "AMPL",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/ampl-black.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "asdsad",
+      "decimals": 1,
+      "name": "dasdas",
+      "symbol": "dfdf",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/add-token-dfdf/logos/dfdf-logo.png"
     }
   ]
 }
