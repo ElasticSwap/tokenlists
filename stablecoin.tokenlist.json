@@ -9,10 +9,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   },
-  "timestamp": "2022-04-06T12:00:00+00:00",
+  "timestamp": "2022-05-13T13:07:45.661Z",
   "tokens": [
     {
       "chainId": 1,
@@ -37,6 +37,14 @@
       "name": "USD Coin",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/USDC-circle-1067px.png"
+    },
+    {
+      "chainId": 1,
+      "address": "1234",
+      "decimals": 7,
+      "name": "Andreas Token",
+      "symbol": "AT1",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/add-token-at1/logos/at1-logo.png"
     }
   ]
 }
