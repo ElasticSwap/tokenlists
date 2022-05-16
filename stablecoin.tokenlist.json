@@ -9,10 +9,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   },
-  "timestamp": "2022-04-06T12:00:00+00:00",
+  "timestamp": "2022-05-16T09:25:52.110Z",
   "tokens": [
     {
       "chainId": 1,
@@ -37,6 +37,14 @@
       "name": "USD Coin",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/USDC-circle-1067px.png"
+    },
+    {
+      "chainId": 3,
+      "address": "sdsfsdf",
+      "decimals": 9,
+      "name": "Test #2",
+      "symbol": "t2",
+      "logoURI": "n/a"
     }
   ]
 }
