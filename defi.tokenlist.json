@@ -8,10 +8,10 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
-  "timestamp": "2022-04-13T12:00:00+00:00",
+  "timestamp": "2022-06-02T22:13:45.644Z",
   "tokens": [
     {
       "chainId": 1,
@@ -60,8 +60,14 @@
       "name": "FOX",
       "symbol": "FOX",
       "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/master/logos/fox.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "decimals": 18,
+      "name": "TEST",
+      "symbol": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/ElasticSwap/tokenlists/add-token-test/logos/test-logo.jpg"
     }
   ]
 }
-
-
